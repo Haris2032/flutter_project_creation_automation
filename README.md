@@ -11,5 +11,5 @@ source ~/.my_commands.sh
 
 ### TO Run:
 ```bash
- 'create <name of your folder>'
+ create <name of your folder>
 ```
