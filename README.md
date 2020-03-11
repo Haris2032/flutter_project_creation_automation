@@ -1,3 +1,7 @@
+### About:
+ Python and Shell scripts that automate creating Flutter based
+projects in the local enviroment and setting up of their GitHub
+repositories via APIs
 ### Install: 
 ```bash
 git clone "https://github.com/Haris2032/flutter_project_creation_automation.git"
